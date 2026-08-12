@@ -43,3 +43,21 @@
 
 ### [Aula 013](../class/aula_013.py) — Aumento de 15%
 - Atividade proposta: ler o salário de um funcionário e mostrar o valor com 15% de aumento.
+
+### [Aula 016](../class/aula_016.py) — Parte inteira de um número
+- Atividade proposta: ler um número real e mostrar sua parte inteira usando `math.trunc()`.
+
+### [Aula 017](../class/aula_017.py) — Hipotenusa
+- Atividade proposta: ler os catetos oposto e adjacente de um triângulo retângulo e calcular a hipotenusa com `math.hypot()`.
+
+### [Aula 018](../class/aula_018.py) — Seno, cosseno e tangente
+- Atividade proposta: ler um ângulo em graus e calcular seu seno, cosseno e tangente com `math.sin()`, `math.cos()` e `math.tan()` (convertendo para radianos com `math.radians()`).
+
+### [Aula 019](../class/aula_019.py) — Sorteio de um aluno
+- Atividade proposta: sortear aleatoriamente um nome entre os alunos da turma usando `random.choice()`.
+
+### [Aula 020](../class/aula_020.py) — Ordem de apresentação
+- Atividade proposta: sortear a ordem de apresentação dos alunos da turma usando `random.sample()`.
+
+### [Aula 021](../class/aula_021.py) — Tocando um som
+- Atividade proposta: tocar um arquivo de áudio usando o módulo `playsound`.
