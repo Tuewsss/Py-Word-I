@@ -34,3 +34,12 @@
 
 ### [Aula 010](../class/aula_010.py) — Conversor de moedas
 - Atividade proposta: ler um valor em reais e convertê-lo para dólares.
+
+### [Aula 011](../class/aula_011.py) — Área e tinta de uma parede
+- Atividade proposta: ler largura e altura de uma parede, calcular a área e quanto de tinta é necessário para pintá-la (1 litro a cada 2 m²).
+
+### [Aula 012](../class/aula_012.py) — Desconto de 5%
+- Atividade proposta: ler o preço de um produto e mostrar o valor com 5% de desconto.
+
+### [Aula 013](../class/aula_013.py) — Aumento de 15%
+- Atividade proposta: ler o salário de um funcionário e mostrar o valor com 15% de aumento.
