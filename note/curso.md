@@ -11,17 +11,26 @@
 ### [Aula 002](../class/aula_002.py) — Input e boas-vindas
 - Atividade proposta: pedir o nome da pessoa e devolver uma mensagem de boas-vindas usando esse nome.
 
----
+### [Aula 003](../class/aula_003.py) — Soma de dois números
+- Atividade proposta: ler dois números e mostrar a soma entre eles.
 
-## 📝 Modelo rápido (copiar para cada aula nova)
+### [Aula 004](../class/aula_004.py) — Tipo primitivo e métodos de string
+- Atividade proposta: ler um valor e checar suas características com métodos de string (`isspace`, `isnumeric`, `isalpha`, `isalnum`, `isupper`, `islower`, `istitle`) e com `type()`.
 
-Preenche em uns 30 segundos, sem enrolação — só o que for útil de lembrar depois:
+### [Aula 005](../class/aula_005.py) — Antecessor e sucessor
+- Atividade proposta: ler um número e mostrar seu antecessor e sucessor.
 
-```
-### [Aula 00X](../class/aula_00X.py) — <tema em 3-4 palavras>
-- O que a aula ensina:
-- Conceito/sintaxe novo:
-- Dúvida ou ponto pra revisar:
-```
+### [Aula 006](../class/aula_006.py) — Dobro, triplo e raiz quadrada
+- Atividade proposta: ler um número e mostrar seu dobro, triplo e raiz quadrada.
 
-Dica: se não tiver nada relevante numa aula, pode até pular — não precisa forçar anotação só pra preencher.
+### [Aula 007](../class/aula_007.py) — Média aritmética
+- Atividade proposta: ler duas notas e calcular a média entre elas.
+
+### [Aula 008](../class/aula_008.py) — Conversor de medidas
+- Atividade proposta: ler um valor em metros e convertê-lo para centímetros e milímetros.
+
+### [Aula 009](../class/aula_009.py) — Tabuada
+- Atividade proposta: ler um número e mostrar sua tabuada (de 1 a 10).
+
+### [Aula 010](../class/aula_010.py) — Conversor de moedas
+- Atividade proposta: ler um valor em reais e convertê-lo para dólares.
