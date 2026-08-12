@@ -1,0 +1,12 @@
+tabuada = int(input("Digite um número para ver sua tabuada: "))
+
+print(f"1 x {tabuada} = {1 * tabuada}")
+print(f"2 x {tabuada} = {2 * tabuada}")
+print(f"3 x {tabuada} = {3 * tabuada}")
+print(f"4 x {tabuada} = {4 * tabuada}")
+print(f"5 x {tabuada} = {5 * tabuada}")
+print(f"6 x {tabuada} = {6 * tabuada}")
+print(f"7 x {tabuada} = {7 * tabuada}")
+print(f"8 x {tabuada} = {8 * tabuada}")
+print(f"9 x {tabuada} = {9 * tabuada}")
+print(f"10 x {tabuada} = {10 * tabuada}")
