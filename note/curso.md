@@ -79,3 +79,33 @@
 
 ### [Aula 027](../class/aula_027.py) — Primeiro e último nome
 - Atividade proposta: ler o nome completo de uma pessoa e mostrar separadamente o primeiro e o último nome.
+
+## Módulo 2: Estruturas de controle
+
+### [Aula 028](../class/aula_028.py) — Jogo de adivinhação
+- Atividade proposta: perguntar se a pessoa quer jogar, sortear um número entre 1 e 5 com `random.randint()` e verificar se ela acertou o palpite.
+
+### [Aula 029](../class/aula_029.py) — Multa por excesso de velocidade
+- Atividade proposta: ler a velocidade de um carro e, se ultrapassar 80 km/h, calcular a multa (R$7 por km/h excedido).
+
+### [Aula 030](../class/aula_030.py) — Par ou ímpar
+- Atividade proposta: ler um número inteiro e informar se ele é par ou ímpar.
+
+### [Aula 031](../class/aula_031.py) — Preço da passagem por distância
+- Atividade proposta: ler a distância de uma viagem e calcular o preço da passagem (R$0,50/km, ou R$0,45/km para viagens de 200 km ou mais).
+
+### [Aula 032](../class/aula_032.py) — Ano bissexto
+- Atividade proposta: ler um ano e verificar se ele é bissexto.
+
+### [Aula 033](../class/aula_033.py) — Maior e menor entre três números
+- Atividade proposta: ler três números e mostrar qual é o maior e qual é o menor entre eles.
+
+### [Aula 034](../class/aula_034.py) — Reajuste salarial condicional
+- Atividade proposta: ler o salário de um funcionário e aplicar um aumento de 15% (salários até R$1250) ou 10% (acima de R$1250).
+
+### [Aula 035](../class/aula_035.py) — Três retas formam um triângulo?
+- Atividade proposta: ler o comprimento de três retas e verificar, pela desigualdade triangular, se elas podem formar um triângulo.
+
+## Conclusão do Mundo 1
+
+- Curso finalizado! Teste final concluído com **9 de 10** perguntas respondidas corretamente, em **00:04:32**.
