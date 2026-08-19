@@ -1,6 +1,6 @@
 # Curso em Vídeo — Python
 
-Repositório com as atividades práticas do curso **Curso em Vídeo — Python**, feito por [Gustavo Guanabara](https://www.cursoemvideo.com/curso/python-3-mundo-1/), documentando o progresso pelo **Mundo 1**.
+Repositório com as atividades práticas do curso **Curso em Vídeo — Python**, feito por [Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), documentando o progresso pelo **Mundo 1**.
 
 ## Módulo 1: Primeiros passos com o Python
 
