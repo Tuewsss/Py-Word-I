@@ -61,3 +61,21 @@
 
 ### [Aula 021](../class/aula_021.py) — Tocando um som
 - Atividade proposta: tocar um arquivo de áudio usando o módulo `playsound`.
+
+### [Aula 022](../class/aula_022.py) — Manipulando nome completo
+- Atividade proposta: ler o nome completo de uma pessoa e mostrá-lo em maiúsculas, em minúsculas, contar o total de letras (sem espaços) e contar quantas letras tem o primeiro nome.
+
+### [Aula 023](../class/aula_023.py) — Unidade, dezena, centena e milhar
+- Atividade proposta: ler um número de 0 a 9999 e mostrar separadamente o valor de cada casa (unidade, dezena, centena e milhar).
+
+### [Aula 024](../class/aula_024.py) — Cidade começa com "Santo"?
+- Atividade proposta: ler o nome de uma cidade e verificar se ela começa com "Santo".
+
+### [Aula 025](../class/aula_025.py) — Nome contém "Silva"?
+- Atividade proposta: ler o nome de uma pessoa e verificar se "Silva" está contido nele.
+
+### [Aula 026](../class/aula_026.py) — Contagem e posição da letra "A"
+- Atividade proposta: ler uma frase e mostrar quantas vezes a letra "A" aparece e em que posição ela aparece pela primeira e pela última vez.
+
+### [Aula 027](../class/aula_027.py) — Primeiro e último nome
+- Atividade proposta: ler o nome completo de uma pessoa e mostrar separadamente o primeiro e o último nome.
